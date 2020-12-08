@@ -1,2 +1,4 @@
 # online-voting-system-vue-laravel
-this program used programing language Java, JavaScript, PHP, HTML, 
+# This program used programing language Java, JavaScript, PHP, HTML, 
+
+# Internet voting system can be a viable alternative for conducting an election and such a voting system must provide the same level of security as ordinary paper based elections. This paper deals with designing, building and testing an Iraqi internet voting system based on open list election where voters have some influence on the order in which a party's candidates are elected. This online voting system is highly secured, and its design is very simple, ease of use and also reliable. It also creates and manages voting and election details as all the voters must login by inserting their verified information and password, then select their favorable candidates to vote for. This will lead to increasing the voting percentage in Iraq. The system is designed using several programming languages such as (HTML, JavaScript, CSS, PHP, MySQL).
